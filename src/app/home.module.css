@@ -1,0 +1,16 @@
+.container {
+  height: 100vh;
+  background-color: #7f7f7f;
+}
+
+.containerCenter{
+  height: 90%;
+  width: 70%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid #FDBA74;
+  background: linear-gradient(to right , #fac715, #F99A15, #F66722,);
+  border-radius: 20px;
+}
